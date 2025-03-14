@@ -1,4 +1,4 @@
-# Hello, folks! `<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">`
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name sounds the same as my username. I am currently a student majoring in cryptography at Nankai University. Cryptography is such an esoteric subject that I've spent a lot of time on the theoretical side of it, so I don't have a lot of interesting projects to share. But we can still share what we like here.
 
