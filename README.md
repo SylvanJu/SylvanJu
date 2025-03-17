@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name sounds the same as my username. I am currently a student majoring in cryptography at Nankai University. Cryptography is such an esoteric subject that I've spent a lot of time on the theoretical side of it, so I don't have a lot of interesting projects to share. But we can still share what we like here.
+I am currently a student majoring in cryptography at Nankai University. Cryptography is such an esoteric subject that I've spent a lot of time on the theoretical side of it, so I don't have a lot of interesting projects to share. But we can still share what we like here.
 
 I have explored a bit about Trusted Execution Environments (TEE), but not much. Currently, I'm also exploring other areas like privacy computing. I'm still in the early stages of learning and progressing, so I don't have much to share yet. But you're always welcome to take a look if you're interested.
 
